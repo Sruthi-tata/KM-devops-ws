@@ -1,2 +1,2 @@
 # KM-devops-ws
-a sample java program to demonstrate devops
+a simple rest api 
